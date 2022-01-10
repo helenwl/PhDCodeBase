@@ -1,0 +1,2 @@
+this folder contains code for the peakfinding NN I built in Dec/Jan 21/22.
+It is based off a maskRCNN and originally trained on labelled images of kangaroos
